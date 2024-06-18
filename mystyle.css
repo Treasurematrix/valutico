@@ -1,0 +1,278 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+
+body{
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:larger;
+}
+
+.navbar{
+width: 100%;
+height: 80px;
+
+}
+.logo{
+    width: 150px;
+    height: auto;
+    padding: 20px, 100px;
+    margin: 30px;
+    
+}
+.navbar ul{
+float: right;
+margin-right: 20px;
+}
+.navbar ul li{
+    list-style: none;
+    margin: 0 8px;
+    display: inline-block;
+    line-height: 80px;
+    gap: 16px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    padding: 6px;
+    transition: .4sec;
+    
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    
+    border-radius: 5px;
+}
+h1 {
+    font-family: Manrope;
+font-size: 64px;
+font-weight: 800;
+line-height: 87.42px;
+text-align: center;
+
+}
+p {
+    font-family: Manrope;
+font-size: 24px;
+font-weight: 500;
+line-height: 43.2px;
+text-align: center;
+
+}
+.button-container {
+    width: Hug (588px)px;
+height: Hug (75px)px;
+top: 566px;
+left: 466px;
+gap: 32px;
+opacity: 0px;
+}
+
+.demo {
+    width: Fixed (278px)px;
+height: Hug (75px)px;
+padding: 24px 40px 24px 40px;
+font-size: 20px;
+ font-weight: bolder;
+ background-color:  rgba(111, 194, 71, 1);
+gap: 16px;
+border-radius: 16px;
+opacity: 0px;
+color: beige;
+
+}
+.login{
+    width: Fixed (278px)px;
+height: Hug (75px)px;
+font-size: 20px;
+padding: 24px 40px 24px 40px;
+gap: 16px;
+border-radius: 16px;
+border: 0px 0px 0px 0px;
+opacity: 0px;
+color:rgba(111, 194, 71, 1);
+
+}
+.img{
+    width: 1260px;
+height: 637px;
+top: 705px;
+left: 126px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.images{
+    
+    width: Hug (1,512px)px;
+height: Fixed (7px)px;
+top: 1342px;
+padding: 0px 115px 0px 115px;
+gap: px;
+opacity: 0px;
+
+}
+.section3-images {
+    width: Hug (1,512px)px;
+height: Fixed (789px)px;
+top: 1342px;
+padding: 0px 115px 0px 115px;
+gap: 32px;
+opacity: 0px;
+
+}
+.section3-images h3 {
+    font-family: Manrope;
+font-size: 32px;
+font-weight: 800;
+line-height: 43.71px;
+text-align: center;
+
+}
+
+.section3-images p {
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+
+}
+.section3-images h3 p {
+    width: Hug (1,062px)px;
+height: Hug (120px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+.images {
+    width: Hug (1,282px)px;
+height: Hug (399px)px;
+gap: 24px;
+opacity: 0px;
+
+}
+
+.valutico{
+    width: Fixed (1,512px)px;
+height: Hug (456px)px;
+top: 2131px;
+background-color: black;
+color: white;
+padding: 72px 103px 72px 103px;
+gap: 10px;
+opacity: 0px;
+
+}
+.valutico h2 {
+    font-family: Manrope;
+font-size: 40px;
+font-weight: 800;
+line-height: 54.64px;
+text-align: center;
+
+}
+.valutico p{
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+
+}
+
+.list{
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+
+}
+.accurate {
+    width: Hug (1,062px)px;
+height: Hug (120px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+
+.png{
+ float: right; 
+ width: 731px;
+height: 693px;
+gap: 0px;
+opacity: 0px;
+padding: 30px;
+
+}
+.cen {
+    position: absolute;
+    
+    width: Fixed (1,304px)px;
+height: Fixed (693px)px;
+gap: 85px;
+opacity: 0px;
+
+}
+
+.cen h3 p {
+    width: Hug (477px)px;
+height: Hug (650px)px;
+gap: 47px;
+opacity: 0px;
+
+}
+.valuation {
+    width: Hug (1,510px)px;
+height: Hug (1,186px)px;
+top: 2587px;
+padding: 69px 103px 69px 103px;
+gap: 80px;
+opacity: 0px;
+
+}
+.accurate h3{
+    font-family: Manrope;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 43.71px;
+    text-align: center;
+    
+}
+.accurate p {
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+
+}
+.valuation .demo{
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 700;
+line-height: 27.32px;
+align-items: center;
+
+
+}
+
+@media all and ( max-width: 500px) {
+
+}
+    
+
+        
+@media (orientation: landscape) and (max-width: 500px) { 
+
+}
+
+@media (orientation: portrait) {
+    
+}
